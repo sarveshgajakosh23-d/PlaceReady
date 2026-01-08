@@ -1,0 +1,8 @@
+{
+  "name": "PlaceReady",
+  "description": "A clean, modern hackathon prototype helping students understand and fix their placement readiness using Gemini AI and mock Firebase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
